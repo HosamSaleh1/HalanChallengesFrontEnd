@@ -5,17 +5,17 @@
 I'm not only a front end, i'm also a full stack dev but i don't have .net.
 <pre>
 I have instead [
-    PythonStack:{
+    Python_Stack: {
         Back-End:Python(Flask),
         Front-End:Jinja2,
         Database:PostgraSQL & SQLite
     },
-    {
+    MEAN_Stack: {
         Back-End:Node(Express),
         Front-End:Angular,
         Database:MongoDB
     },
-    {
+    LAMP_Stack: {
         Back-End:PHP(Laravel),
         Front-End:Blade & Bootstrap,
         Database:MySQL
