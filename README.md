@@ -1,6 +1,6 @@
-# HalanChallengesFrontEnd
+# Halan FrontEnd Challenges
 
-# Message:
+# Important_Message:
 
 I'm not only a front end, i'm also a full stack dev but i don't have .net.
 <pre>
