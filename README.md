@@ -1,5 +1,27 @@
 # HalanChallengesFrontEnd
 
+# Message:
+
+I'm not only a front end, i'm also a full stack dev but i don't have .net.
+
+I have instead [
+    {
+        Back-End:Python(Flask),
+        Front-End:Jinja2,
+        Database:PostgraSQL & SQLite
+    },
+    {
+        Back-End:Node(Express),
+        Front-End:Angular,
+        Database:MongoDB
+    },
+    {
+        Back-End:PHP(Laravel),
+        Front-End:Blade & Bootstrap,
+        Database:MySQL
+    }
+].
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
