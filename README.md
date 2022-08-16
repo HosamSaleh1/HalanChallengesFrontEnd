@@ -3,9 +3,9 @@
 # Message:
 
 I'm not only a front end, i'm also a full stack dev but i don't have .net.
-
+<pre>
 I have instead [
-    {
+    PythonStack:{
         Back-End:Python(Flask),
         Front-End:Jinja2,
         Database:PostgraSQL & SQLite
@@ -21,6 +21,7 @@ I have instead [
         Database:MySQL
     }
 ].
+</pre>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
