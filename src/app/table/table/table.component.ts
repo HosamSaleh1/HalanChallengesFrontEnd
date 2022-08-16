@@ -19,11 +19,11 @@ export class TableComponent implements OnInit {
 
   title = 'Users Table';
 
-  head = [['ID', 'NAME', 'Age', 'Address','Date & Time','Email']]
+  head = [[ 'NAME', 'Age', 'Address','Date & Time','Email']]
 
   data = [
-    [1, 'Jane Doe',12, '13th street in Maadi','2012-04-23T18:25:43.511Z', 'jane@halanchallenge.com'],
-    [2, 'Justin Doe', 12,'15 Salah Salem street in Nasr city','2012-04-23T18:25:43.511Z', 'Justin@halanchallenge.com']
+    ['Jane Doe',12, '13th street in Maadi','2012-04-23T18:25:43.511Z', 'jane@halanchallenge.com'],
+    ['Justin Doe', 12,'15 Salah Salem street in Nasr city','2012-04-23T18:25:43.511Z', 'Justin@halanchallenge.com']
   ]
 
   Users: Users[] = [
