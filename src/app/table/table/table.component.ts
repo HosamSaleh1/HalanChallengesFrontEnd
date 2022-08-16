@@ -51,7 +51,7 @@ export class TableComponent implements OnInit {
 
     doc.setFontSize(18);
     doc.text('The Users Detail', 11, 8);
-    doc.setFontSize(11);
+    doc.setFontSize(10);
     doc.setTextColor(100);
 
 
@@ -59,16 +59,13 @@ export class TableComponent implements OnInit {
       head: this.head,
       body: this.data,
       theme: 'plain',
-      didDrawCell: data => {
-        console.log(data.column.index)
-      }
     })
 
     // below line for Open PDF document in new tab
     doc.output('dataurlnewwindow')
 
     // below line for Download PDF document  
-    doc.save('myteamdetail.pdf');
+    doc.save('TheUsersDetails.pdf');
   }
 
   ngOnInit(): void {}
